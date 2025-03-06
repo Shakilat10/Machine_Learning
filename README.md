@@ -19,7 +19,7 @@ compare different regression models and evaluate their performance using various
 - **Source**: https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who
 - **Format**: CSV
 - **Key Features**:
--- Life Expectancy (Target Variable)
+- Life Expectancy (Target Variable)
 - Country
 - Year
 - Status
@@ -57,10 +57,10 @@ compare different regression models and evaluate their performance using various
 ## 📊 Analysis & Methodology
 
  **Data Preprocessing & Handling**
-✔️ Handled missing, duplicated values and inconsistencies
-✔️ Scaled numerical features for better model performance
-✔️ Encode Categorical Variables
-✔️ Split the Data
+- ✔️ Handled missing, duplicated values and inconsistencies
+- ✔️ Scaled numerical features for better model performance
+- ✔️ Encode Categorical Variables
+- ✔️ Split the Data
 
  **Exploratory Data Analysis (EDA)**
 
