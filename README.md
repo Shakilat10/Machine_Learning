@@ -16,10 +16,10 @@ compare different regression models and evaluate their performance using various
 
 ## 📂 Dataset
 
-**Source**: https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who
-**Format**: CSV
-**Key Features**:
-- Life Expectancy (Target Variable)
+- **Source**: https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who
+- **Format**: CSV
+- **Key Features**:
+-- Life Expectancy (Target Variable)
 - Country
 - Year
 - Status
