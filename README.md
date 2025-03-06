@@ -70,12 +70,12 @@ compare different regression models and evaluate their performance using various
 
  **Model Training & Evaluation**
 
-📍 Applied Linear, Ridge, and Lasso Regression
-📍 Compared performance using MAE, RMSE, and R²
-📍 Used Grid Search and Random Search for hyperparameter tuning
-📍 Visualized Prediction Error Plots for model comparison
-📍 Evaluated model overfitting using Residuals vs. Actuals Plots
-📍 Applied K-Fold Cross Validation to improve generalization
+- 📍 Applied Linear, Ridge, and Lasso Regression
+- 📍 Compared performance using MAE, RMSE, and R²
+- 📍 Used Grid Search and Random Search for hyperparameter tuning
+- 📍 Visualized Prediction Error Plots for model comparison
+- 📍 Evaluated model overfitting using Residuals vs. Actuals Plots
+- 📍 Applied K-Fold Cross Validation to improve generalization
 
 ## 📈 Results & Insights
 According to the hyperparameter tuning and cross-validation outcomes, Ridge Regression was chosen as the best-performance model with moderate Alpha value of 0.3728 comparing to small 
