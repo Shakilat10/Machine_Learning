@@ -16,9 +16,9 @@ compare different regression models and evaluate their performance using various
 
 ## 📂 Dataset
 
-- **Source**: https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who
-- **Format**: CSV
-- **Key Features**:
+**Source**: https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who
+**Format**: CSV
+**Key Features**:
 - Life Expectancy (Target Variable)
 - Country
 - Year
@@ -56,19 +56,19 @@ compare different regression models and evaluate their performance using various
 
 ## 📊 Analysis & Methodology
 
-🔹 **Data Preprocessing & Handling**
+ **Data Preprocessing & Handling**
 ✔️ Handled missing, duplicated values and inconsistencies
 ✔️ Scaled numerical features for better model performance
 ✔️ Encode Categorical Variables
 ✔️ Split the Data
 
-🔹 **Exploratory Data Analysis (EDA)**
+ **Exploratory Data Analysis (EDA)**
 
 📌 Visualized feature distributions and correlations
 📌 Analyzed trends in life expectancy across different variables
 📌 Identified potential outliers and anomalies
 
-🔹 **Model Training & Evaluation**
+ **Model Training & Evaluation**
 
 📍 Applied Linear, Ridge, and Lasso Regression
 📍 Compared performance using MAE, RMSE, and R²
