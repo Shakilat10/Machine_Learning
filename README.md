@@ -57,16 +57,16 @@ compare different regression models and evaluate their performance using various
 ## 📊 Analysis & Methodology
 
  **Data Preprocessing & Handling**
-- ✔️ Handled missing, duplicated values and inconsistencies
-- ✔️ Scaled numerical features for better model performance
-- ✔️ Encode Categorical Variables
-- ✔️ Split the Data
+- Handled missing, duplicated values and inconsistencies
+- Scaled numerical features for better model performance
+- Encode Categorical Variables
+- Split the Data
 
  **Exploratory Data Analysis (EDA)**
 
-📌 Visualized feature distributions and correlations
-📌 Analyzed trends in life expectancy across different variables
-📌 Identified potential outliers and anomalies
+- 📌 Visualized feature distributions and correlations
+- 📌 Analyzed trends in life expectancy across different variables
+- 📌 Identified potential outliers and anomalies
 
  **Model Training & Evaluation**
 
